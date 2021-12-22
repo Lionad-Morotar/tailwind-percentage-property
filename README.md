@@ -1,33 +1,28 @@
-# tailwindcss-percentage-width
-This plugin add new utilities classes so you can use from 0% to 100% in your widths.
+# tailwind-percentage-property
+
+This plugin add some new utility class so you can use from 0% to 100% in your widths or other properyies.
 
 # Get Started
-### Install the npm package into your project
 
-    npm i tailwindcss-percentage-width
+### Install
 
-or
+```bash
+pnpm install --save-dev https://github.com/Lionad-Morotar/tailwind-percentage-property
+```
 
-    yarn add tailwindcss-percentage-width
+### Configure `tailwind.config.js`
 
-### Load the plugin in your `tailwind.config.js` file
+```
+module.exports = {
+	// ... other config
+	plugins: [
+			require('tailwindcss-percentage-width'),
+			// ... other plugins
+	]
+}
+```
 
-    //tailwind.config.js
-    const  percentageWidth = require('tailwindcss-percentage-width'); // load the plugin
-    module.exports = {
-	    purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'],
-	    darkMode:  false, // or 'media' or 'class'
-	    theme: {},
-	    variants: {
-	       extend: {},
-	    },
-	    plugins: [
-	        percentageWidth, // tell tailwindcss that you want to use it
-	        //other plugins...
-	    ]
-    };
-    
-    
 ## Just use it
-![how to use](https://i.imgur.com/isk1mSs.png)
+
+![percentage width example](https://i.imgur.com/isk1mSs.png)
 
