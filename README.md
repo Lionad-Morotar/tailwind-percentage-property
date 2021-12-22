@@ -14,11 +14,11 @@ pnpm install --save-dev https://github.com/Lionad-Morotar/tailwind-percentage-pr
 
 ```
 module.exports = {
-	// ... other config
-	plugins: [
-			require('tailwindcss-percentage-width'),
-			// ... other plugins
-	]
+  // ... other config
+  plugins: [
+    require('tailwind-percentage-property'),
+    // ... other plugins
+  ]
 }
 ```
 
