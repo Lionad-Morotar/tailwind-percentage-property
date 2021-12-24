@@ -1,6 +1,6 @@
 {
   "name": "tailwind-percentage-property",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "This plugin add some new utility class so you can use from 0% to 100% in your widths or other properyies.",
   "main": "index.js",
   "scripts": {},
