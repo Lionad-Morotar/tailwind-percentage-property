@@ -4,11 +4,10 @@
   "description": "This plugin add some new utility class so you can use from 0% to 100% in your widths or other properyies.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davidrock/tailwind-percentage-property.git"
+    "url": "git+https://github.com/Lionad-Morotar/tailwind-percentage-property.git"
   },
   "keywords": [
     "tailwind",
@@ -17,11 +16,9 @@
     "tailwind",
     "plugin"
   ],
-  "author": "David Rock",
-  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/davidrock/tailwind-percentage-property/issues"
+    "url": "https://github.com/Lionad-Morotar/tailwind-percentage-property/issues"
   },
-  "homepage": "https://github.com/davidrock/tailwind-percentage-property#readme",
+  "homepage": "https://github.com/Lionad-Morotar/tailwind-percentage-property#readme",
   "dependencies": {}
 }
