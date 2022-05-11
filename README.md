@@ -7,7 +7,7 @@ This plugin add some new utility class so you can use from 0% to 100% in your wi
 ### Install
 
 ```bash
-pnpm install --save-dev https://github.com/Lionad-Morotar/tailwind-percentage-property
+pnpm install --save-dev tailwind-percentage-property
 ```
 
 ### Configure `tailwind.config.js`
