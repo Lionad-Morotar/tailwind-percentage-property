@@ -1,5 +1,11 @@
 # tailwind-percentage-property
 
+<bold>deprecated!</bold>
+
+You should use `w-[100%]` syntax for instead of this plugin
+
+----
+
 This plugin add some new utility class so you can use from 0% to 100% in your widths or other properyies.
 
 # Get Started
