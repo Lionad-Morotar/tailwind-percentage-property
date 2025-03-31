@@ -1,8 +1,8 @@
+<bold>DEPRECATED!</bold>
+
 # tailwind-percentage-property
 
-<bold>deprecated!</bold>
-
-You should use `w-[100%]` syntax for instead of this plugin
+You should use `w-[100%]` instead of this plugin
 
 ----
 
